@@ -1,0 +1,8 @@
+name: CubusTerra
+version: '1.0-SNAPSHOT'
+main: net.cubusterra.cubusterra.CubusTerra
+api-version: '1.20'
+
+commands:
+  afk:
+    description: Setzt den Player AFK Status, und kickt ihn im AFK Modus wenn er Schaden nimmt
